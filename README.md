@@ -2,8 +2,6 @@
 
 A premium, high-performance, and visually stunning wiki interface for browsing curated "Awesome Lists." Built for the FOSS community, this project transforms standard Markdown-based lists into an interactive, modern web experience.
 
-![Awesome Wiki Preview](https://via.placeholder.com/1200x600?text=Awesome+Wiki+Interface) <!-- Placeholder for actual preview if available -->
-
 ## ✨ Features
 
 - **🚀 Instant Loading**: Lightweight vanilla JavaScript architecture for lightning-fast performance.
